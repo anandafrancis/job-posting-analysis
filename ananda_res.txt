@@ -1,0 +1,30 @@
+﻿Ananda Francis
+francis.ana@northeastern.edu → www.anandafrancis.com → www.github.com/anandafrancis
+____________________________________________________________________________________________________________________
+Education
+Northeastern University                                                             SEPT 2021 - MAY 2024
+Data Science B.S.                                                                               GPA: 3.67
+* Relevant Coursework: Advanced Programming with Data, Foundations of Data Science, Database Design, Linear Algebra, Advanced Writing in the Technical Professions, Discrete Math
+____________________________________________________________________________________________________________________
+Work Experience
+Northeastern University
+Writer & Tech Specialist at SunnyLand Lab                                        SEPT 2021 - JAN 2022        
+* Developed website using Wordpress and Divi editor
+* Leverage Python libraries, mySQL database and other data science tools and practices to store and manipulate data from staff research
+____________________________________________________________________________________________________________________
+Projects
+Job Board Analysis: Used NLP tools, APIs and machine learning to predict what job an applicant should apply to based on the skills present in their resume and created visualizations to understand skill frequency in job postings. This project has been used as examples for future classes.
+Brain Image Machine Learning: Built over 10,000 unique algorithms to analyze what type of classifier, brain parcellation and priming condition can most accurately predict the emotion state of a test subject using brain image data, fMRI images, of 30 subjects from Northeastern’s Affective and Brain Science Lab.
+Crime Data Dashboard: Built a dashboard and reusable library showing geospatial models, time series animations, sankey diagrams and other charts to visualize and conduct data analysis for crimes in Boston from 2015 to present.
+NLP Bible Analysis: Built reusable library to analyze the Bible and create visualizations using NLP tools.
+Hate Crime Analysis: Explored different economic, social, cultural, and political factors’ correlation to reported hate crime rates to better understand what types of environments prevent vs provoke hate crimes and how we can better understand the offenders and victims of hate crimes.
+____________________________________________________________________________________________________________________
+Extracurriculars
+Google CS Research Mentorship Program                                           JAN 2021 - MAY 2021
+Health & Bioscience Mentee
+Google-to-student mentorship program that connects students with Googler to discuss pursuit of CS research careers, define a research question and begin the process of pursuing undergraduate research.
+____________________________________________________________________________________________________________________
+Skills
+Machine Learning: Predictive Analysis, Data Clustering, Scikit-Learn, Decision Tree, Random Forest, Supervised/Unsupervised Learning, Algorithms
+Programming Languages & Software: Python, GitHub/Git, HTML, Markdown, SQL, Jupyter Notebook, Application Programing Interface (API), Wordpress, Javascript, React.js
+Mathematics & Data Analysis: Applied Statistics, Regression, Data Analytics, Data Modeling, Pandas, Natural Language Processing, Dashboard, Quantitative Analysis, Database Queries, Data Munging, Data Manipulation, Data Storytelling, Data Visualization
